@@ -1,5 +1,5 @@
-# curso-platzi-react-avanzado ⚛️
+# PetGram ⚛️
 
-¡Sígueme en Youtube! https://www.youtube.com/midudev
+Pictures Pet App
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Repositorio con el código del [PetGram](https://github.com/javymarmol/Petgram.git)
